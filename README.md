@@ -1,4 +1,4 @@
-# Factor-Analysis-of-Mutual-Funds
+# Factor Analysis of Mutual Funds
 
 Factor Analysis of Mutual Funds is a quantitative technique used to understand and evaluate the underlying factors that drive the performance of mutual funds. It involves decomposing the returns of a mutual fund into various components, or "factors," which could be macroeconomic variables, market indices, or other financial metrics that influence fund returns.
 
