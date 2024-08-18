@@ -30,10 +30,10 @@ The Fama-French Three-Factor Model is widely used in finance to evaluate the per
 
 ## Interpretation
 
-Market Factor (Mkt-RF): Captures the overall market risk. A portfolio or stock with a higher beta will be more sensitive to market movements.
+**Market Factor (Mkt-RF**): Captures the overall market risk. A portfolio or stock with a higher beta will be more sensitive to market movements.
 
-Size Factor (SMB): A positive loading indicates a tilt towards smaller-cap stocks, which have historically provided higher returns than large-cap stocks.
+**Size Factor (SMB)**: A positive loading indicates a tilt towards smaller-cap stocks, which have historically provided higher returns than large-cap stocks.
 
-Value Factor (HML): A positive loading indicates a tilt towards value stocks, which have historically outperformed growth stocks.
+**Value Factor (HML)**: A positive loading indicates a tilt towards value stocks, which have historically outperformed growth stocks.
 
 
